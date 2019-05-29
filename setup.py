@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='mymodule',
+setup(name='myproject',
       version='0.1.0',
       author='Jens Laufer',
       author_email='jenslaufer@jenslaufer.com',
